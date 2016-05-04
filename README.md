@@ -1,6 +1,8 @@
 # midhe
 An online synthesizer experience.
 
+DEMO: http://sesosa.com/midhe/login.php
+
 ————
 Recap
 ————
